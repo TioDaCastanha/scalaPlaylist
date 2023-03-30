@@ -1,4 +1,15 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\src\main\scala\EnergyMeter.scala:1:28: not found: type Device[0m
-[0m[[0m[31merror[0m] [0m[0mclass EnergyMeter (device: Device){[0m
-[0m[[0m[31merror[0m] [0m[0m                           ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\src\main\scala\LightBulb.scala:4:15: cannot override final member:[0m
+[0m[[0m[31merror[0m] [0m[0mfinal def turnOn(): Unit (defined in trait Device)[0m
+[0m[[0m[31merror[0m] [0m[0m	override def turnOn(): Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m	             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\src\main\scala\LightBulb.scala:10:15: cannot override final member:[0m
+[0m[[0m[31merror[0m] [0m[0mfinal def turnOff(): Unit (defined in trait Device)[0m
+[0m[[0m[31merror[0m] [0m[0m	override def turnOff(): Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m	             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\src\main\scala\LightBulb.scala:1:7: class LightBulb needs to be abstract.[0m
+[0m[[0m[31merror[0m] [0m[0mMissing implementations for 2 members of trait Device.[0m
+[0m[[0m[31merror[0m] [0m[0m  protected[this] def actuallyTurnOff(): Unit = ???[0m
+[0m[[0m[31merror[0m] [0m[0m  protected[this] def actuallyTurnOn(): Unit = ???[0m
+[0m[[0m[31merror[0m] [0m[0mclass LightBulb extends Device {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
