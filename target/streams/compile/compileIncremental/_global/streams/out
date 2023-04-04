@@ -1,30 +1,28 @@
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
 [0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
-[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 54 products, 26 sources, 1 libraries[0m
-[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/Video12.scala, ${BASE}/src/main/scala/Device.scala, ${BASE}/src/main/scala/Video16.scala, ${BASE}/src/main/scala/Video11.scala, ${BASE}/src/main/scala/Clock.scala, ${BASE}/src/main/scala/FarAway.scala, ${BASE}/src/main/scala/EnergyMeter.scala, ${BASE}/src/main/scala/Video10.scala, ${BASE}/src/main/scala/TwoDimensionalTime.scala, ${BASE}/src/main/scala/Video7_1.scala, ${BASE}/src/main/scala/TwoDimensionalString.scala, ${BASE}/src/main/scala/Video6.scala, ${BASE}/src/main/scala/Video15.scala, ${BASE}/src/main/scala/LightBulb.scala, ${BASE}/src/main/scala/Main.scala, ${BASE}/src/main/scala/TwoDimensionalDigit.scala, ${BASE}/src/main/scala/Video8.scala, ${BASE}/src/main/scala/Terminal.scala, ${BASE}/src/main/scala/Video14Clock.scala, ${BASE}/src/main/scala/TV.scala, ${BASE}/src/main/scala/Video5.scala, ${BASE}/src/main/scala/Video13.scala, ${BASE}/src/main/scala/Video7.scala, ${BASE}/src/main/scala/Video14.scala, ${BASE}/src/main/scala/Video4.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(${BASE}/src/main/scala/ThoDimensionalDigit.scala), changed = Set(${BASE}/src/main/scala/Device.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 83 products, 31 sources, 1 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/Base.scala, ${BASE}/src/main/scala/Video12.scala, ${BASE}/src/main/scala/Device.scala, ${BASE}/src/main/scala/Core.scala, ${BASE}/src/main/scala/Video16.scala, ${BASE}/src/main/scala/Video11.scala, ${BASE}/src/main/scala/Clock.scala, ${BASE}/src/main/scala/FarAway.scala, ${BASE}/src/main/scala/EnergyMeter.scala, ${BASE}/src/main/scala/Video10.scala, ${BASE}/src/main/scala/TwoDimensionalTime.scala, ${BASE}/src/main/scala/Video7_1.scala, ${BASE}/src/main/scala/TwoDimensionalString.scala, ${BASE}/src/main/scala/Video6.scala, ${BASE}/src/main/scala/Video15.scala, ${BASE}/src/main/scala/LightBulb.scala, ${BASE}/src/main/scala/video17.scala, ${BASE}/src/main/scala/MainCars.scala, ${BASE}/src/main/scala/Main.scala, ${BASE}/src/main/scala/TwoDimensionalDigit.scala, ${BASE}/src/main/scala/Video8.scala, ${BASE}/src/main/scala/Terminal.scala, ${BASE}/src/main/scala/Video14Clock.scala, ${BASE}/src/main/scala/Modification.scala, ${BASE}/src/main/scala/TV.scala, ${BASE}/src/main/scala/Video5.scala, ${BASE}/src/main/scala/Video13.scala, ${BASE}/src/main/scala/Video7.scala, ${BASE}/src/main/scala/Video14.scala, ${BASE}/src/main/scala/Video4.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(${BASE}/src/main/scala/ThoDimensionalDigit.scala), changed = Set(${BASE}/src/main/scala/MainCars.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	removed: Set(${BASE}/src/main/scala/ThoDimensionalDigit.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/Device.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/MainCars.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(Device)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(MainCars)[0m
 [0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(Device)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/Device.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Device[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding LightBulb by Device[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding TV by Device[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(MainCars)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/MainCars.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: MainCars[0m
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
 [0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.8.0:compile for Scala 2.13.10[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 789c729e for Scala compiler version 2.13.10[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler ad0b89e for Scala compiler version 2.13.10[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
@@ -37,5 +35,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.3172986 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.1773209 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
