@@ -1,4 +1,5 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\src\main\scala\MainCars.scala:66:11: not found: value executionStart[0m
-[0m[[0m[31merror[0m] [0m[0m		println(executionStart)[0m
-[0m[[0m[31merror[0m] [0m[0m		        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\src\main\scala\Video19.scala:44:12: not enough arguments for method apply: (name: String, age: Int): AnPerson in object AnPerson.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter age.[0m
+[0m[[0m[31merror[0m] [0m[0m			AnPerson([0m
+[0m[[0m[31merror[0m] [0m[0m			        ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

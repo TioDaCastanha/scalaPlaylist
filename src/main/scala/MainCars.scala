@@ -1,9 +1,9 @@
-object MainCars extends App{
-		println("-"*50)
+object MainCars /*extends App*/{
+		/*println("-"*50)
 
 		code(args)
 
-		println("-"*50)
+		println("-"*50)*/
 	
 
 	def code(args: Array[String]): Unit = {
@@ -62,7 +62,7 @@ object MainCars extends App{
 			firstIgnoreCaseThenLog.contains("hI")
 		)
 
-		println(executionStart)
-		println(new java.util.Date(executionStart))
+		/*println(executionStart)
+		println(new java.util.Date(executionStart))*/
 	}
 }

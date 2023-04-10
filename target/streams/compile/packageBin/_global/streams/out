@@ -1,5 +1,9 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\scalaplaylist_2.13-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnPerson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\AnPerson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnPerson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\AnPerson.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Base$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Base$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Base$Car.class[0m
@@ -46,8 +50,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\MainCars$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MainCars$BMW$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\MainCars$BMW$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MainCars$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\MainCars$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MainCars$Lamborghini$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\MainCars$Lamborghini$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MainCars.class[0m
@@ -142,6 +144,30 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video17$Turtle$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Video17.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video17.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video18$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video18$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video18$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video18$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video18$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video18$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video18$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video18$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video18.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video18.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	video18_2$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\video18_2$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	video18_2$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\video18_2$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	video18_2$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\video18_2$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	video18_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\video18_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	video18_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\video18_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video19$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video19$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video19.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video19.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Video4$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video4$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Video4.class[0m
