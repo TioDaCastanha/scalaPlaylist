@@ -1,17 +1,11 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AnPerson.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AnPerson$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Video19$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Video19.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video20_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video20_2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AnPerson.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AnPerson$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Video19$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Video19.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video20_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video20_2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AnPerson.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AnPerson$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Video19$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Video19.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video20_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video20_2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes.bak[0m

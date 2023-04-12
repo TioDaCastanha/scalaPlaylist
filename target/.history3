@@ -31,3 +31,15 @@
 1680176111687:~run
 1680619533191:exit
 1681133454758:~run
+1681214559639:[error]
+1681214559724:[error]   // Members declared in scala.Product
+1681214559798:[error]   def productArity: Int = ???
+1681214575300:[error]   def productElement(n: Int): Any = ???
+1681214596796:~~run~
+1681214614860:clean
+1681214619708:~run
+1681247910696:n(person.isInstanceOf[Product])
+1681253954757:pprintln(person.isInstanceOf[Product])
+1681257090866:exit
+1681297527050:~run
+1681302258193:exit

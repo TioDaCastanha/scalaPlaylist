@@ -1,12 +1,4 @@
 object Video19 {
-	def main(args: Array[String]): Unit = {
-		println("-"*50)
-
-		code(args)
-
-		println("-"*50)
-	}
-
 /*	def method(input: Any): Any = input match {
 		case variable => s"Any: $variable" 
 	}
@@ -16,8 +8,63 @@ object Video19 {
 	}*/
 
 	def code(args: Array[String]): Unit = {
-	
 		def method(input: Any): Any = input match {
+			// case Seq() => "empty"
+			// case Seq(last) => last
+			// case Seq(secondToLast, last) => last
+			// case Seq(1, 2, 3) => "matched"
+			// case Seq(first, _*) => "at least 1"
+			// case Seq(first, second, _*) => "at least 2"
+			// case Seq(first, secont, others @ _*) => others
+			case wrapper: MyFavoriteStrings => wrapper.strings	
+
+		}
+
+		def show(input: Any): Unit = {
+			println(method(input))
+		}
+
+		show(MyFavoriteStrings(Seq("1", "2")))
+
+		/*println(Set(1,2,3))
+		println(Set(3,2,1))
+		println(Set(1,2,2,2,3,2)) //No Duplicates
+
+		println()
+
+		println(Set(1,2,3) == Set(3,2,1))
+		println(Set(1,2,3) == Set(2,2,1,3,3))
+
+		println()
+
+		println(Set[Int]())
+		println(Set.empty[Int])
+
+		println()
+
+		println(Set[Int]() == Set.empty[Int])
+
+		println("-"*50)
+
+		println(Seq(1,2,3))
+		println(Seq(3,2,1))
+		println(Seq(1,2,2,2,3,2))
+
+		println()
+
+		println(Seq(1,2,3) == Seq(3,2,1))
+		println(Seq(1,2,3) == Seq(2,2,1,3,3))
+
+		println()
+
+		println(Seq[Int]())
+		println(Seq.empty[Int])
+
+		println()
+
+		println(Seq[Int]() == Seq.empty[Int])*/
+	
+		/*def method(input: Any): Any = input match {
 			//case person: AnPerson if person.isAdult 
 			//	=> s"guard: ${person.isAdult}"
 			//case person: AnPerson => person.name
@@ -48,7 +95,7 @@ object Video19 {
 
 		val aTuple = (bob, billy)
 
-		show(aTuple)
+		show(aTuple)*/
 
 	/*	val One = 1
 		val ten = 10
@@ -78,3 +125,5 @@ object Video19 {
 final case class AnPerson(name: String, age: Int) {
 	def isAdult: Boolean = age >= 18
 }
+
+final case class MyFavoriteStrings(strings: Seq[String]) extends AnyVal
