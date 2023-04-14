@@ -1,11 +1,11 @@
 object Video20_2{
-	def main(args: Array[String]): Unit = {
+	/*def main(args: Array[String]): Unit = {
 		println("-"*50)
 
 		code(args)
 
 		println("-"*50)
-	}
+	}*/
 
 	def code(args: Array[String]): Unit = {
 		val f3: (String, Int, Boolean) => Unit =

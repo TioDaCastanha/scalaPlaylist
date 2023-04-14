@@ -44,6 +44,12 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\File$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	File.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\File.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	File2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\File2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Helpers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Helpers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Helpers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Helpers.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Human$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Human$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Human.class[0m
@@ -208,6 +214,14 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video20_2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Video20_2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video20_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video21_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video21_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video21_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video21_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video22$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video22$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Video22.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video22.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Video4$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video4$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Video4.class[0m
@@ -232,4 +246,38 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video8$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Video8.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\Video8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\ActionsModule$Actions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\ActionsModule$Actions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\ActionsModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\ActionsModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\HelpingModule$Helping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\HelpingModule$Helping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\HelpingModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\HelpingModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\LinkingModule$Linking$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\LinkingModule$Linking$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\LinkingModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\LinkingModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\nouns[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\nouns[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\nouns\Animals$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\nouns\Animals$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\nouns\Animals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\nouns\Animals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\nouns\Plants$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\nouns\Plants$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\nouns\Plants.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\nouns\Plants.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\nouns\Transports$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\nouns\Transports$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\nouns\Transports.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\nouns\Transports.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\verbs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\verbs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\verbs\package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\verbs\package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	words\verbs\package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\minho\Documents\Desenvolvimento de Sistemas\SublimeProject\ScalaDev\scalaPlaylist\target\scala-2.13\classes\words\verbs\package.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
